@@ -1,0 +1,11 @@
+Bao,TuoiTre,150
+Bao,GiaoDuc,290
+Bao,ThanhNien,260
+Bao,ThanhXuan,500
+Tap chi,PhuNu,nxb PhuNu, 500, 300
+Tap chi,NgayMoi, nxb ThienNien, 200, 51
+Tap chi,NewYorkTime, nxb NewYork, 400, 523
+Tap chi,TuoiTreCuoi, nxb NgayMoi, 500, 800
+Sach,Motconvit,HaNoi,200
+Sach,Bachuheo,ThieuNhi,150
+Sach,Motthoi,Tre,150
